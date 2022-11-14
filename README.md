@@ -1,6 +1,6 @@
 # 🎯 Go Web Server
 
-<img src="https://github.com/muhammederendemir/Go-Web-Server/blob/master/image/go-img.webp">
+<img src="https://github.com/Muhammederendemir/go-web-server/blob/main/image/go-wall.jpg">
 
 ## 📌 Run
 
@@ -27,4 +27,3 @@ go run main.go
 ## 📌 Reources
 * https://www.youtube.com/watch?v=jFfo23yIWac&ab_channel=freeCodeCamp.org
 
-# go-web-server
